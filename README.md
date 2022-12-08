@@ -1,4 +1,4 @@
-## Authors: Zia Rasheed and Abeera 
+## Authors: Zia Rasheed and Abeera Arshad
 
 # Getting Started with Create React App
 
