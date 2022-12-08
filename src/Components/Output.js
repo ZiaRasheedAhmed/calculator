@@ -1,6 +1,6 @@
 import React from "react";
 
-const Output = () => {
+function Output(a){
     return (
         <div className="outputScreen">
             <input type="text" readOnly /> {/* we used read only so the user can't modify the value run time */}

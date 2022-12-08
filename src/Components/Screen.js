@@ -1,11 +1,11 @@
 import React from "react";
-import Output from "./Output.js";
 
-const Screen = () => {
+
+function Screen({as}){
     return(
         <div className="outputScreen">
-         <Output></Output>
-         <Output></Output>
+        <input type="text" value={as} />
+         
         </div>
     )
 }
